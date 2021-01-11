@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Reflections/Reflections.iml" filepath="$PROJECT_DIR$/Reflections/Reflections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleEventBus/SampleEventBus.iml" filepath="$PROJECT_DIR$/SampleEventBus/SampleEventBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UseHelloWorld/UseHelloWorld.iml" filepath="$PROJECT_DIR$/UseHelloWorld/UseHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vorlesung16-examples.iml" filepath="$PROJECT_DIR$/vorlesung16-examples.iml" />
+    </modules>
+  </component>
+</project>
